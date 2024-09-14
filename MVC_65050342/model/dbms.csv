@@ -1,0 +1,36 @@
+cowID,cowColor,cowAge
+12345678,white,3.2
+23456789,brown,1.2
+34567890,white,5y 11m
+45678901,brown,2y 6m
+56789012,white,4y 4m
+67890123,brown,8y 1m
+78901234,white,6y 8m
+89012345,brown,9y 5m
+90123456,white,7y 3m
+12345679,brown,0y 10m
+abc,brown,1208
+sbd,ddd,dddd
+12345678,brown,12-02
+12345678,brown,1
+12345678,brown,1
+01234567,red,1
+1,red,1
+1,red,1
+12345678,brown,1
+12345678,brown,1
+12345678,brown,1
+1,brown,1
+1,brown,1
+1,brown,1
+12345678,white,1
+23456789,brown,1
+01234567,brown,1
+01234567,brown,1
+1,red,1
+0123456,red,1
+01234567,brown,1
+01234567,brown,1
+01234567,brown,1
+12345678,white,1
+45678320,white,1
